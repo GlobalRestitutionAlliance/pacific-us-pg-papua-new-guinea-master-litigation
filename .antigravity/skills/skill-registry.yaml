@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: papua-new-guinean-restitution-roadmap-and-qsf-trust-execution
-  name: Papua New Guinean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/papua-new-guinean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_pg_001
+    name: Papua New Guinea Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_002
+    name: Papua New Guinea Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_003
+    name: Papua New Guinea Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_004
+    name: Papua New Guinea Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_005
+    name: Papua New Guinea Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_006
+    name: Papua New Guinea Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_007
+    name: Papua New Guinea Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_008
+    name: Papua New Guinea Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_009
+    name: Papua New Guinea Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_010
+    name: Papua New Guinea Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_011
+    name: Papua New Guinea Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_012
+    name: Papua New Guinea Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_013
+    name: Papua New Guinea Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_014
+    name: Papua New Guinea Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_015
+    name: Papua New Guinea Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_016
+    name: Papua New Guinea Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_017
+    name: Papua New Guinea Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_018
+    name: Papua New Guinea Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_019
+    name: Papua New Guinea Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_020
+    name: Papua New Guinea Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_021
+    name: Papua New Guinea Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_022
+    name: Papua New Guinea Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_023
+    name: Papua New Guinea Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_024
+    name: Papua New Guinea Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_025
+    name: Papua New Guinea Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_026
+    name: Papua New Guinea Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_027
+    name: Papua New Guinea Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_028
+    name: Papua New Guinea Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_029
+    name: Papua New Guinea Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_030
+    name: Papua New Guinea Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_031
+    name: Papua New Guinea Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_032
+    name: Papua New Guinea Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_033
+    name: Papua New Guinea Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_034
+    name: Papua New Guinea Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_035
+    name: Papua New Guinea Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_036
+    name: Papua New Guinea Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_037
+    name: Papua New Guinea Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_038
+    name: Papua New Guinea Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_039
+    name: Papua New Guinea Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_040
+    name: Papua New Guinea Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_041
+    name: Papua New Guinea Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_042
+    name: Papua New Guinea Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_043
+    name: Papua New Guinea Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_044
+    name: Papua New Guinea Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_045
+    name: Papua New Guinea Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_046
+    name: Papua New Guinea Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_047
+    name: Papua New Guinea Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_048
+    name: Papua New Guinea Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_049
+    name: Papua New Guinea Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_050
+    name: Papua New Guinea Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_051
+    name: Papua New Guinea Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_052
+    name: Papua New Guinea Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_053
+    name: Papua New Guinea Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_054
+    name: Papua New Guinea Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_055
+    name: Papua New Guinea Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_056
+    name: Papua New Guinea Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_057
+    name: Papua New Guinea Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_058
+    name: Papua New Guinea Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_059
+    name: Papua New Guinea Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_060
+    name: Papua New Guinea Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_061
+    name: Papua New Guinea Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_062
+    name: Papua New Guinea Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_063
+    name: Papua New Guinea Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_064
+    name: Papua New Guinea Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_065
+    name: Papua New Guinea Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_066
+    name: Papua New Guinea Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_067
+    name: Papua New Guinea Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_068
+    name: Papua New Guinea Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_069
+    name: Papua New Guinea Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_070
+    name: Papua New Guinea Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_071
+    name: Papua New Guinea Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_072
+    name: Papua New Guinea Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_073
+    name: Papua New Guinea Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_074
+    name: Papua New Guinea Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_075
+    name: Papua New Guinea Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_076
+    name: Papua New Guinea Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_077
+    name: Papua New Guinea Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_078
+    name: Papua New Guinea Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_079
+    name: Papua New Guinea Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_080
+    name: Papua New Guinea Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_081
+    name: Papua New Guinea Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_082
+    name: Papua New Guinea Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_083
+    name: Papua New Guinea Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_084
+    name: Papua New Guinea Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_085
+    name: Papua New Guinea Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_086
+    name: Papua New Guinea Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_087
+    name: Papua New Guinea Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_088
+    name: Papua New Guinea Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_089
+    name: Papua New Guinea Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_090
+    name: Papua New Guinea Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_091
+    name: Papua New Guinea Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_092
+    name: Papua New Guinea Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_093
+    name: Papua New Guinea Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_094
+    name: Papua New Guinea Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_095
+    name: Papua New Guinea Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_096
+    name: Papua New Guinea Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_097
+    name: Papua New Guinea Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_098
+    name: Papua New Guinea Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_099
+    name: Papua New Guinea Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_100
+    name: Papua New Guinea Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_101
+    name: Papua New Guinea Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_102
+    name: Papua New Guinea Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_103
+    name: Papua New Guinea Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_104
+    name: Papua New Guinea Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_105
+    name: Papua New Guinea Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_106
+    name: Papua New Guinea Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_107
+    name: Papua New Guinea Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_108
+    name: Papua New Guinea Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_109
+    name: Papua New Guinea Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_110
+    name: Papua New Guinea Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_111
+    name: Papua New Guinea Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_112
+    name: Papua New Guinea Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_113
+    name: Papua New Guinea Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_114
+    name: Papua New Guinea Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_115
+    name: Papua New Guinea Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_116
+    name: Papua New Guinea Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_117
+    name: Papua New Guinea Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_118
+    name: Papua New Guinea Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_119
+    name: Papua New Guinea Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_120
+    name: Papua New Guinea Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_121
+    name: Papua New Guinea Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_122
+    name: Papua New Guinea Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_123
+    name: Papua New Guinea Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_124
+    name: Papua New Guinea Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_125
+    name: Papua New Guinea Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_126
+    name: Papua New Guinea Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_127
+    name: Papua New Guinea Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_128
+    name: Papua New Guinea Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_129
+    name: Papua New Guinea Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_130
+    name: Papua New Guinea Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_131
+    name: Papua New Guinea Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_132
+    name: Papua New Guinea Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_133
+    name: Papua New Guinea Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_134
+    name: Papua New Guinea Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_135
+    name: Papua New Guinea Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_136
+    name: Papua New Guinea Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_137
+    name: Papua New Guinea Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_138
+    name: Papua New Guinea Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_139
+    name: Papua New Guinea Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_140
+    name: Papua New Guinea Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_141
+    name: Papua New Guinea Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_142
+    name: Papua New Guinea Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_143
+    name: Papua New Guinea Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_144
+    name: Papua New Guinea Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_145
+    name: Papua New Guinea Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_146
+    name: Papua New Guinea Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_147
+    name: Papua New Guinea Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_148
+    name: Papua New Guinea Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_149
+    name: Papua New Guinea Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_150
+    name: Papua New Guinea Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_151
+    name: Papua New Guinea Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_152
+    name: Papua New Guinea Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_153
+    name: Papua New Guinea Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_154
+    name: Papua New Guinea Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_155
+    name: Papua New Guinea Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_156
+    name: Papua New Guinea Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_157
+    name: Papua New Guinea Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_158
+    name: Papua New Guinea Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_159
+    name: Papua New Guinea Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_160
+    name: Papua New Guinea Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_161
+    name: Papua New Guinea Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_162
+    name: Papua New Guinea Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_163
+    name: Papua New Guinea Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_164
+    name: Papua New Guinea Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_165
+    name: Papua New Guinea Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_166
+    name: Papua New Guinea Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_167
+    name: Papua New Guinea Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_168
+    name: Papua New Guinea Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_169
+    name: Papua New Guinea Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_170
+    name: Papua New Guinea Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_171
+    name: Papua New Guinea Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_172
+    name: Papua New Guinea Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_173
+    name: Papua New Guinea Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_174
+    name: Papua New Guinea Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_175
+    name: Papua New Guinea Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_176
+    name: Papua New Guinea Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_177
+    name: Papua New Guinea Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_178
+    name: Papua New Guinea Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_179
+    name: Papua New Guinea Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_180
+    name: Papua New Guinea Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_181
+    name: Papua New Guinea Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_182
+    name: Papua New Guinea Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_183
+    name: Papua New Guinea Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_184
+    name: Papua New Guinea Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_185
+    name: Papua New Guinea Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_186
+    name: Papua New Guinea Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_187
+    name: Papua New Guinea Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_188
+    name: Papua New Guinea Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_189
+    name: Papua New Guinea Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_190
+    name: Papua New Guinea Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_191
+    name: Papua New Guinea Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_192
+    name: Papua New Guinea Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_193
+    name: Papua New Guinea Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_194
+    name: Papua New Guinea Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_195
+    name: Papua New Guinea Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_196
+    name: Papua New Guinea Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_197
+    name: Papua New Guinea Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_198
+    name: Papua New Guinea Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_199
+    name: Papua New Guinea Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_200
+    name: Papua New Guinea Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_201
+    name: Papua New Guinea Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_202
+    name: Papua New Guinea Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_203
+    name: Papua New Guinea Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_204
+    name: Papua New Guinea Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_205
+    name: Papua New Guinea Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_206
+    name: Papua New Guinea Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_207
+    name: Papua New Guinea Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_208
+    name: Papua New Guinea Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_209
+    name: Papua New Guinea Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_210
+    name: Papua New Guinea Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_211
+    name: Papua New Guinea Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_212
+    name: Papua New Guinea Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_213
+    name: Papua New Guinea Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_214
+    name: Papua New Guinea Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_215
+    name: Papua New Guinea Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_216
+    name: Papua New Guinea Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_217
+    name: Papua New Guinea Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_218
+    name: Papua New Guinea Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_219
+    name: Papua New Guinea Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_220
+    name: Papua New Guinea Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_221
+    name: Papua New Guinea Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_222
+    name: Papua New Guinea Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_223
+    name: Papua New Guinea Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_224
+    name: Papua New Guinea Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_225
+    name: Papua New Guinea Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_226
+    name: Papua New Guinea Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_227
+    name: Papua New Guinea Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_228
+    name: Papua New Guinea Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_229
+    name: Papua New Guinea Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_230
+    name: Papua New Guinea Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_231
+    name: Papua New Guinea Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_232
+    name: Papua New Guinea Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_233
+    name: Papua New Guinea Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_234
+    name: Papua New Guinea Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_235
+    name: Papua New Guinea Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_236
+    name: Papua New Guinea Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_237
+    name: Papua New Guinea Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_238
+    name: Papua New Guinea Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_239
+    name: Papua New Guinea Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_240
+    name: Papua New Guinea Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_241
+    name: Papua New Guinea Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_242
+    name: Papua New Guinea Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_243
+    name: Papua New Guinea Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_244
+    name: Papua New Guinea Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_245
+    name: Papua New Guinea Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_246
+    name: Papua New Guinea Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_247
+    name: Papua New Guinea Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_248
+    name: Papua New Guinea Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_249
+    name: Papua New Guinea Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_250
+    name: Papua New Guinea Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_251
+    name: Papua New Guinea Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pg_252
+    name: Papua New Guinea Skill 252
+    status: ACTIVE_SCAFFOLD
